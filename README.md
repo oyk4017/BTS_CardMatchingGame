@@ -5,7 +5,13 @@
 
 따라서 경로 안에 한글이 포함되어있으면, 노래가 재생될 때 오류가 발생할 수 있습니다.
 
+싱글플레이, 멀티플레이 총 2가지 버전이 있습니다. 멀티플레이는 한 대의 컴퓨터로 두 명이 번갈아가며 게임을 진행합니다.
 
 
-### bts.py 실행시 메인화면
+### 1. bts.py 실행시 메인화면
 <img width="1497" alt="bts main" src="https://user-images.githubusercontent.com/38232481/90532881-b7a9ac80-e1b2-11ea-9426-34f2a73f6513.png">
+
+### 2. 싱글플레이
+
+닉네임을 입력하고 OK 버튼을 클릭하면 LEVEL 1부터 게임이 시작됩니다.
+<img width="310" alt="스크린샷 2020-08-19 오전 12 32 55" src="https://user-images.githubusercontent.com/38232481/90533482-8d0c2380-e1b3-11ea-85f8-9814857b5619.png">
