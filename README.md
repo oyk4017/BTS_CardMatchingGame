@@ -15,7 +15,7 @@
 
 ### 2. 싱글플레이
 
->**<p align="center">닉네임을 입력하고 OK 버튼을 클릭하면 LEVEL 1부터 게임이 시작됩니다.</p>**
+**<p align="center">닉네임을 입력하고 OK 버튼을 클릭하면 LEVEL 1부터 게임이 시작됩니다.</p>**
 
 
 <p align="center"><img width="310" alt="스크린샷 2020-08-19 오전 12 32 55" src="https://user-images.githubusercontent.com/38232481/90533482-8d0c2380-e1b3-11ea-85f8-9814857b5619.png"></p>
