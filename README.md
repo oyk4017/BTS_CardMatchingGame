@@ -8,3 +8,4 @@
 
 
 ### bts.py 실행시 메인화면
+<img width="1497" alt="bts main" src="https://user-images.githubusercontent.com/38232481/90532881-b7a9ac80-e1b2-11ea-9426-34f2a73f6513.png">
