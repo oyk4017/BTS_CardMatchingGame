@@ -20,8 +20,6 @@
 
 <p align="center"><img width="310" alt="스크린샷 2020-08-19 오전 12 32 55" src="https://user-images.githubusercontent.com/38232481/90533482-8d0c2380-e1b3-11ea-85f8-9814857b5619.png"></p>
 
-</n>
-
 **<p align="center">게임이 시작되면 3초간 카드를 보여줍니다.</p>**
 
 
